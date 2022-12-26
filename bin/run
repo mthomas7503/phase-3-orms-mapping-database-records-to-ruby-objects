@@ -12,5 +12,6 @@ end
 
 reset_database
 
-binding.pry
+
+#binding.pry
 "pls"
